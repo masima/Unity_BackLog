@@ -1,0 +1,4 @@
+# UnityBackLog
+
+Unity5.5.0f3で動作確認。
+BackLogシーンを開いてゲームを実行し、InputFieldに適当な文字を入力してEntryボタンを押すと入力された文字列がLogとして登録されていきます。
